@@ -1,4 +1,4 @@
-import sqlite
+import sqlite3
 
 DB_NAME = 'freshstock.db'
 
